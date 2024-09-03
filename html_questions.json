@@ -1,0 +1,162 @@
+[
+    {
+        "title": "What does the 'DOMContentLoaded' event in JavaScript signify?",
+        "answer_1": "All images have been loaded",
+        "answer_2": "The entire page including stylesheets has been loaded",
+        "answer_3": "The HTML document has been completely loaded and parsed",
+        "answer_4": "A specific DOM element has been clicked",
+        "right_answer": "The HTML document has been completely loaded and parsed"
+    },
+    {
+        "title": "Which CSS property is used to change the text color of an element?",
+        "answer_1": "font-style",
+        "answer_2": "color",
+        "answer_3": "text-decoration",
+        "answer_4": "background-color",
+        "right_answer": "color"
+    },
+    {
+        "title": "What is the correct HTML element for inserting a line break?",
+        "answer_1": "<break>",
+        "answer_2": "<lb>",
+        "answer_3": "<br>",
+        "answer_4": "<line>",
+        "right_answer": "<br>"
+    },
+    {
+        "title": "Which JavaScript method is used to select an element by its ID?",
+        "answer_1": "getElementsByClassName()",
+        "answer_2": "getElementById()",
+        "answer_3": "querySelectorAll()",
+        "answer_4": "getElementsByTagName()",
+        "right_answer": "getElementById()"
+    },
+    {
+        "title": "In CSS, how do you select all elements of a specific class?",
+        "answer_1": "#classname",
+        "answer_2": ".classname",
+        "answer_3": "*classname",
+        "answer_4": "classname",
+        "right_answer": ".classname"
+    },
+    {
+        "title": "Which HTML attribute is used to define inline styles?",
+        "answer_1": "class",
+        "answer_2": "style",
+        "answer_3": "styles",
+        "answer_4": "font",
+        "right_answer": "style"
+    },
+    {
+        "title": "What is the purpose of the 'defer' attribute in a script tag?",
+        "answer_1": "It loads the script asynchronously",
+        "answer_2": "It prevents the script from executing",
+        "answer_3": "It delays script execution until after the page has loaded",
+        "answer_4": "It runs the script before the HTML is parsed",
+        "right_answer": "It delays script execution until after the page has loaded"
+    },
+    {
+        "title": "Which CSS property controls the size of text?",
+        "answer_1": "font-weight",
+        "answer_2": "text-size",
+        "answer_3": "font-size",
+        "answer_4": "text-style",
+        "right_answer": "font-size"
+    },
+    {
+        "title": "How do you write a comment in JavaScript?",
+        "answer_1": "<!-- This is a comment -->",
+        "answer_2": "// This is a comment",
+        "answer_3": "'This is a comment",
+        "answer_4": "/* This is a comment */",
+        "right_answer": "// This is a comment"
+    },
+    {
+        "title": "What does CSS stand for?",
+        "answer_1": "Colorful Style Sheets",
+        "answer_2": "Computer Style Sheets",
+        "answer_3": "Cascading Style Sheets",
+        "answer_4": "Creative Style Sheets",
+        "right_answer": "Cascading Style Sheets"
+    },
+    {
+        "title": "Which HTML element is used to define important text?",
+        "answer_1": "<strong>",
+        "answer_2": "<em>",
+        "answer_3": "<important>",
+        "answer_4": "<b>",
+        "right_answer": "<strong>"
+    },
+    {
+        "title": "In JavaScript, which keyword is used to declare a variable?",
+        "answer_1": "var",
+        "answer_2": "let",
+        "answer_3": "const",
+        "answer_4": "All of the above",
+        "right_answer": "All of the above"
+    },
+    {
+        "title": "Which CSS property is used to create space between the element's border and inner content?",
+        "answer_1": "margin",
+        "answer_2": "padding",
+        "answer_3": "border-spacing",
+        "answer_4": "spacing",
+        "right_answer": "padding"
+    },
+    {
+        "title": "What is the correct HTML element for the largest heading?",
+        "answer_1": "<heading>",
+        "answer_2": "<h6>",
+        "answer_3": "<h1>",
+        "answer_4": "<head>",
+        "right_answer": "<h1>"
+    },
+    {
+        "title": "Which JavaScript method is used to convert a JSON text into a JavaScript object?",
+        "answer_1": "JSON.parse()",
+        "answer_2": "JSON.stringify()",
+        "answer_3": "JSON.convert()",
+        "answer_4": "JSON.toObject()",
+        "right_answer": "JSON.parse()"
+    },
+    {
+        "title": "In CSS, which property is used to change the background color?",
+        "answer_1": "color",
+        "answer_2": "background-color",
+        "answer_3": "bgcolor",
+        "answer_4": "background-image",
+        "right_answer": "background-color"
+    },
+    {
+        "title": "Which HTML element is used to define a hyperlink?",
+        "answer_1": "<a>",
+        "answer_2": "<link>",
+        "answer_3": "<href>",
+        "answer_4": "<hyperlink>",
+        "right_answer": "<a>"
+    },
+    {
+        "title": "What does the 'this' keyword refer to in JavaScript?",
+        "answer_1": "The current HTML document",
+        "answer_2": "The global object",
+        "answer_3": "The object from which it was called",
+        "answer_4": "The previous function called",
+        "right_answer": "The object from which it was called"
+    },
+    {
+        "title": "Which CSS property is used to make the text bold?",
+        "answer_1": "font-style",
+        "answer_2": "text-weight",
+        "answer_3": "font-weight",
+        "answer_4": "text-style",
+        "right_answer": "font-weight"
+    },
+    {
+        "title": "Which HTML element is used to display a scalar measurement within a range?",
+        "answer_1": "<meter>",
+        "answer_2": "<progress>",
+        "answer_3": "<gauge>",
+        "answer_4": "<range>",
+        "right_answer": "<meter>"
+    }
+]
